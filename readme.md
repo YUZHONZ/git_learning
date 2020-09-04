@@ -1,3 +1,3 @@
 hello
 
-we are going to record some git command here.
+we are going to record some git command here and so on.
